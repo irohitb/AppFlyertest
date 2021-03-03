@@ -1,3 +1,3 @@
-- [App flyer Android Deep link 3](https://kiranakarttesting.onelink.me/rWmS/16cd83bf)
+- [App flyer Android Deep link 3](https://kiranakartlinks.onelink.me/yAp8/12128cb5)
 - [AppFLyer link](https://kiranakarttest.onelink.me/c7MB/b439b913)
 - [AppFlyer Deep-link url 2](https://kiranakart.onelink.me/A1W4/tent)
