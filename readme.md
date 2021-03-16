@@ -9,4 +9,4 @@ Universal Links
 
 URL Schema 
 
-- kiranakartconsumer://&campaign_type=referralScreen
+- kiranakartconsumer://?campaign_type=campaign_type
