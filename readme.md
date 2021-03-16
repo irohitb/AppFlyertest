@@ -8,4 +8,5 @@ Universal Links
 
 
 URL Schema 
-kiranakartconsumer://referral
+
+- kiranakartconsumer://referral
